@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "",
   "author": "",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
   "engines": {
     "node": "^18.18.0",
-    "yarn": "^3.2.3"
+    "yarn": "^4.2.2"
   },
   "scripts": {
     "build": "nest build",
