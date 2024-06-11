@@ -2,8 +2,3 @@
 **/node_modules
 **/.yarn/cache
 **/dist
-
-
-
-.nx/cache
-.nx/workspace-data

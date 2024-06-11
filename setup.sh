@@ -6,4 +6,3 @@ yarn build
 cd ../../../app
 yarn
 yarn build
-
